@@ -1,7 +1,6 @@
 ## Covid19 Data Analysis
 
-지난 2020년 3월 29일부터 2020년 5월 10일까지 진행된 [DACON 코로나 데이터 시각화 AI 경진대회 데이터](https://dacon.io/competitions/official/235590/overview/description/) 및 공공 데이터를 활용하여 <br>
-코로나 데이터에 대한 시각화와 인사이트 도출을 진행한다.
+지난 2020년 3월 29일부터 2020년 5월 10일까지 진행된 [DACON 코로나 데이터 시각화 AI 경진대회 데이터](https://dacon.io/competitions/official/235590/overview/description/) 및 공공 데이터를 활용하여 코로나 데이터에 대한 시각화와 인사이트 도출을 진행한다.
 
 `기간 : 2021.04.02 - 2021.04.09`
 
